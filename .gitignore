@@ -1,0 +1,11 @@
+# This workspace root also holds unrelated projects that are not part of
+# CX1001 - keep them out of this repo entirely.
+/bharat-monitor/
+/cache-cost-engine/
+/.agents/
+/.claude/
+/skills-lock.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
